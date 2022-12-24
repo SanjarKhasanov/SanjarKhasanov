@@ -1,4 +1,4 @@
-### Hi  there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  <br>I'm Sanjar Khasanov, Nowdays I'm learning Node.js Backend ⚡
+### Hi  there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  <br>I'm Sanjar Khasanov, Nowadays I'm learning Node.js Backend ⚡
 
 <!--
 **SanjarKhasanov/SanjarKhasanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
